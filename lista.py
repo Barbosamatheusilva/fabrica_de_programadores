@@ -11,6 +11,3 @@
 #turtle.getscreen()._root.mainloop()
 
 import this
-
-
-modulos import if else random 
